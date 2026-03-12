@@ -9,6 +9,5 @@ function charCount(str) {
     }
     return count;
 }
-
 console.log(charCount("programming"));
 
